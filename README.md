@@ -23,22 +23,22 @@ Once above models were applied, Accuracy score and Cross Validation were calcula
 - <b>LogReg</B>\
 Accuracy: 83.33%. \
 Cross Validation Results Mean: 0.941667. \
-Cross Validation Results STD: 0.065085. \
+Cross Validation Results STD: 0.065085. 
 
 - <b>LnrDisAnal</B>\
 Accuracy: 100.00%. \
 Cross Validation Results Mean: 0.975000. \
-Cross Validation Results STD: 0.038188. \
+Cross Validation Results STD: 0.038188. 
 
 - <b>KNN</B>\
 Accuracy: 100.00%. \
 Cross Validation Results Mean: 0.958333. \
-Cross Validation Results STD: 0.041667. \
+Cross Validation Results STD: 0.041667. 
 
 - <b>DecTreeClass</B>\
 Accuracy: 96.67%. \
 Cross Validation Results Mean: 0.933333. \
-Cross Validation Results STD: 0.050000. \
+Cross Validation Results STD: 0.050000. 
 
 - <b>GausNB</B>\
 Accuracy: 96.67%. \
@@ -48,11 +48,16 @@ Cross Validation Results STD: 0.055277
 - <b>SVM</B>\
 Accuracy: 96.67%. \
 Cross Validation Results Mean: 0.983333. \
-Cross Validation Results STD: 0.033333. \
+Cross Validation Results STD: 0.033333. 
 
 - <b>XGB</B>\
 Accuracy: 96.67%. \
 Cross Validation Results Mean: 0.958333. \
-Cross Validation Results STD: 0.041667. \
+Cross Validation Results STD: 0.041667. 
 \
-Based on above, LDA comes out to be best model to go for prediction. \
+Based on above, LDA comes out to be best model to go for prediction. 
+
+Visualizing Predicted VS Real Plot using LDA
+
+![alt tex](https://github.com/manoharpavuluri/iris-flower-analysis/blob/master/photos/CV_plt.png)
+

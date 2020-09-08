@@ -59,5 +59,5 @@ Based on above, LDA comes out to be best model to go for prediction.
 
 Visualizing Predicted VS Real Plot using LDA
 
-![alt tex](https://github.com/manoharpavuluri/iris-flower-analysis/blob/master/photos/CV_plt.png)
+<img src="https://github.com/manoharpavuluri/iris-flower-analysis/blob/master/photos/CV_plt.png" height="400" width="500">
 
